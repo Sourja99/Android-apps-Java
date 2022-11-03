@@ -9,3 +9,5 @@
 8. Multithreading Implementation
 9.File read and Write (File_read_write)
 10. Database app (Database_2)
+
+To get a detail Information for all the apps goto the folder **Information
