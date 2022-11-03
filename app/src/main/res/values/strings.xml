@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gui_App</string>
+    <string name="hello_world">Hello World !!</string>
+    <string name="change_font_size">CHANGE FONT SIZE</string>
+    <string name="change_color">CHANGE COLOR</string>
+    <string name="exit">EXIT</string>
+    <string name="change_background_color">CHANGE BACKGROUND COLOR</string>
+    <string name="increase">INCREASE  + +</string>
+    <string name="decrease">DECREASE - -</string>
+    <string name="back1">BACK</string>
+    <string name="yellow">YELLOW</string>
+    <string name="blue">BLUE</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="gray">GRAY</string>
+    <string name="back2">BACK</string>
+</resources>

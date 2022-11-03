@@ -1,0 +1,2 @@
+rootProject.name = "Gui_App"
+include ':app'

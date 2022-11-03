@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9CCCF3"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="50dp"
+        android:gravity="center"
+        android:text="@string/hello_world"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="@string/yellow"
+        android:textColor="#250404"
+        android:textSize="16sp"
+        app:backgroundTint="#EAD410"
+        tools:ignore="DuplicateIds" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:text="@string/blue"
+        android:textColor="#050101"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="#556DF1" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:text="@string/red"
+        android:textColor="#170402"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="#F44336" />
+
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:text="@string/green"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="#022303"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="#4B7A15" />
+
+    <Button
+        android:id="@+id/button12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-medium"
+        android:text="@string/gray"
+        android:textColor="#332828"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="#918383" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|center_vertical"
+        android:gravity="center_horizontal|center_vertical"
+        android:insetTop="0dp"
+        android:insetBottom="0dp"
+        android:text="@string/back1"
+        android:textSize="16sp"
+        app:backgroundTint="#85099A"
+        app:elevation="0dp" />
+</LinearLayout>
